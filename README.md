@@ -26,6 +26,7 @@ Easy-to-use interface for creating profiles and receiving insights.
 Engaging and personalized experience that feels like a conversation with a mentor.
 Perfect for students, professionals, and anyone looking to optimize their life.
 🌟 Why It’s Unique
-Digital Twin Concept: AI mirrors your skills, preferences, and goals.
-Career + Lifestyle Integration: Most tools focus on one; this optimizes both simultaneously.
-Personalized & Actionable: Suggestions are tailored, practical, and ready to implement.
+1. Digital Twin Concept: AI mirrors your skills, preferences, and goals.
+2. Career + Lifestyle Integration: Most tools focus on one; this optimizes both simultaneously.
+3. Personalized & Actionable: Suggestions are tailored, practical, and ready to implement.
+4. Future-Proof: As you grow, your AI twin grows with you, evolving recommendations.
