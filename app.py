@@ -43,7 +43,15 @@ if "resume_text" not in st.session_state:
 # -----------------------------
 # GROQ CLIENT
 # -----------------------------
-client = Groq(api_key="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")
+from dotenv import load_dotenv
+import os
+from groq import Groq
+
+load_dotenv()
+
+api_key = os.getenv("GROQ_API_KEY")
+
+client = Groq(api_key=api_key)
 
 # -----------------------------
 # SAFE GENERATE
