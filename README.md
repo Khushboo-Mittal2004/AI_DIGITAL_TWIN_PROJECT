@@ -1,6 +1,4 @@
-# AI Digital Twin for Career & Life Simulation 
-
-Your AI. Your Life. Your Future.
+# AI Digital Twin for Career & Life Simulation - Your AI, Your Life, Your Future.
 
 Your personal AI companion for career, food, and lifestyle decisions.
 
