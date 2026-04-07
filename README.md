@@ -25,6 +25,9 @@ Helps you discover opportunities and habits you might not have considered.
 Easy-to-use interface for creating profiles and receiving insights.
 Engaging and personalized experience that feels like a conversation with a mentor.
 Perfect for students, professionals, and anyone looking to optimize their life.
+
+
+
 🌟 Why It’s Unique
 1. Digital Twin Concept: AI mirrors your skills, preferences, and goals.
 2. Career + Lifestyle Integration: Most tools focus on one; this optimizes both simultaneously.
